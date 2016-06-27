@@ -1,9 +1,22 @@
+![reactjs](public/react-opti.png)
+
+
+Github battle
+=========
+
+
+#Built on Reactjs
+
+
 This app is built following reactjsprogram.com
 
-#Github battle
 
 to run app webpack-dev-server & the port is 8000
 
+:sparkles: just finished implementing routes in this app :star:
+
+
+---
 
 
 // [personal note] info could be used later
